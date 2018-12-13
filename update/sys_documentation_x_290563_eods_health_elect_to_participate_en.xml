@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="elect_to_participate" label="Elect to Participate" language="en" table="x_290563_eods_health">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>elect_to_participate</element>
+            <help/>
+            <hint/>
+            <label>Elect to Participate</label>
+            <language>en</language>
+            <name>x_290563_eods_health</name>
+            <plural>Elect to Participates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 15:50:38</sys_created_on>
+            <sys_id>970988bddb022300a7c8771c8c9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Elect to Participate</sys_name>
+            <sys_package display_value="EODS" source="x_290563_eods">49c144f5db022300a7c8771c8c96191a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EODS">49c144f5db022300a7c8771c8c96191a</sys_scope>
+            <sys_update_name>sys_documentation_x_290563_eods_health_elect_to_participate_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 15:50:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

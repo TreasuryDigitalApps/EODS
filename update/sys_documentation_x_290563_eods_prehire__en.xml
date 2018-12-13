@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="PREHIRE" language="en" table="x_290563_eods_prehire">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>PREHIRE</label>
+            <language>en</language>
+            <name>x_290563_eods_prehire</name>
+            <plural>PREHIREs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 15:29:01</sys_created_on>
+            <sys_id>2a1440b9db022300a7c8771c8c961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PREHIRE</sys_name>
+            <sys_package display_value="EODS" source="x_290563_eods">49c144f5db022300a7c8771c8c96191a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EODS">49c144f5db022300a7c8771c8c96191a</sys_scope>
+            <sys_update_name>sys_documentation_x_290563_eods_prehire__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 15:29:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

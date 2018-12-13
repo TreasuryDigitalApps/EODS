@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5aa01835db422300a7c8771c8c961917" sys_domain="global" table="x_290563_eods_health" version="3" view="Insert_Health_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>elect_to_participate</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>16a01835db422300a7c8771c8c961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>96a01835db422300a7c8771c8c961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_enrollment_code</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>1aa01835db422300a7c8771c8c961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>9aa01835db422300a7c8771c8c961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>1ea01835db422300a7c8771c8c961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>medicare_election</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>9ea01835db422300a7c8771c8c961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>12a01835db422300a7c8771c8c961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>medicare_a</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>92a01835db422300a7c8771c8c961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>medicare_b</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>16a01835db422300a7c8771c8c961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>medicare_c</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:54</sys_created_on>
+            <sys_id>96a01835db422300a7c8771c8c961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290563_eods_health" sys_domain="global" view="96a09435db422300a7c8771c8c9619c4">5aa01835db422300a7c8771c8c961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_290563_eods_health</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-28 16:23:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aa01835db422300a7c8771c8c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_290563_eods_health</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EODS" source="x_290563_eods">49c144f5db022300a7c8771c8c96191a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EODS">49c144f5db022300a7c8771c8c96191a</sys_scope>
+            <sys_update_name>sys_ui_section_5aa01835db422300a7c8771c8c961917</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-28 16:23:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Insert Health View" name="Insert_Health_View">96a09435db422300a7c8771c8c9619c4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

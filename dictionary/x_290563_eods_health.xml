@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Health" max_length="40" name="x_290563_eods_health" type="collection">
+        <element label="Elect to Participate" max_length="40" name="elect_to_participate" type="boolean"/>
+        <element label="Medicare A" max_length="40" name="medicare_a" type="boolean"/>
+        <element label="Medicare B" max_length="40" name="medicare_b" type="boolean"/>
+        <element label="Medicare C" max_length="40" name="medicare_c" type="boolean"/>
+        <element label="Do you have medicare" max_length="40" name="medicare_election" type="boolean"/>
+        <element label="New Enrollment Code" mandatory="true" max_length="80" name="new_enrollment_code" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="Approved"/>
+                <element inactive_on_update="false" label="Rejected"/>
+            </choice>
+        </element>
+    </element>
+</database>
